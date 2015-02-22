@@ -1,6 +1,7 @@
 # CodeBook for Coursera Getting and Cleaning Dataset Project
 
 ## Variable Description
+````
 subject			
 	name: Subject Number
 	description: Unique number identifying each subject. 30 subjects in total. (Unit of Measurement for this dataset)
@@ -244,7 +245,7 @@ fBodyGyrometerJerkMagnitudeMeanFrequency
 	type: numeric (scientific) 
 	length: 7 significant figures
 	values: <continuous>
-	
+````
 
 ## Original Data Description
 Original source of data is from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
